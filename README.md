@@ -9,7 +9,7 @@ I know this a very small game, just a little canvas, least css, and loads of but
 ## Discontinuation letter:
 This project is officially discontinued by VGames and will not recieve any updates. However, this game is not being removed.
 
-As a result any bugs or glitches will not be fixed. New features will not be added
+As a result any bugs or glitches will not be fixed. New features will not be added.
 
 ---
 
